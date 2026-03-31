@@ -9,7 +9,7 @@ This entire project focuses on spreading digital literacy primarily aimed toward
 
 1. PRESENTATION
 2. PORTFOLIO
-3.PLATFORMS
+3. PLATFORMS
 4. EMAIL ETIQUETTES
 5. CYBERCRIMES
 
